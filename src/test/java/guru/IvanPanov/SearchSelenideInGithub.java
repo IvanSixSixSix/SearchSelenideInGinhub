@@ -1,4 +1,4 @@
-package gure.IvanPanov;
+package guru.IvanPanov;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.*;
